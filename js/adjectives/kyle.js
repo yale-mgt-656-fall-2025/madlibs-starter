@@ -1,5 +1,18 @@
 adjectives = adjectives.concat([
     'short',
     'crafty',
-    'wiley'
+    'wiley',
+    'sly',
+    'cunning',
+    'clever',
+    'shrewd',
+    'astute',
+    'sharp',
+    'smart',
+    'ingenious',
+    'resourceful',
+    'quick-witted',
+    'perspicacious',
+    'discerning',
+    'perceptive',
 ]);

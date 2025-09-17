@@ -1,5 +1,22 @@
 verbs = verbs.concat([
     'run',
     'jump',
-    'code'
+    'code',
+    'sneak',
+    'hack',
+    'scheme',
+    'plot',
+    'devise',
+    'outsmart',
+    'outwit',
+    'bypass',
+    'circumvent',
+    'elude',
+    'evade',
+    'escape',
+    'flee',
+    'dodge',
+    'duck',
+    'weave',
+    'slip',
 ]);
