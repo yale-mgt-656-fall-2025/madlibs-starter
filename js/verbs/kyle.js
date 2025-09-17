@@ -1,5 +1,25 @@
 verbs = verbs.concat([
     'run',
     'jump',
-    'code'
+    'code',
+    'whisper',
+    'bounce',
+    'climb',
+    'explode',
+    'giggle',
+    'sprint',
+    'stumble',
+    'vanish',
+    'twirl',
+    'float',
+    'gallop',
+    'crawl',
+    'snooze',
+    'juggle',
+    'invent',
+    'roar',
+    'skate',
+    'paint',
+    'tickle',
+    'zoom'
 ]);

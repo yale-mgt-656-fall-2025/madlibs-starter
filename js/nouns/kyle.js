@@ -1,5 +1,27 @@
 nouns = nouns.concat([
     'man',
     'bear',
-    'pig'
+    'pig',
+    'chicken',
+    'monkey',
+    'wizard',
+    'volcano',
+    'robot',
+    'unicorn',
+    'pencil',
+    'sandwich',
+    'giraffe',
+    'laptop',
+    'pirate',
+    'spaceship',
+    'dragon',
+    'taco',
+    'ghost',
+    'detective',
+    'banana',
+    'mountain',
+    'teacher',
+    'penguin',
+    'cookie',
+    'jellyfish'
 ]);
