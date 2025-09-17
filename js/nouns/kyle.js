@@ -1,5 +1,18 @@
 nouns = nouns.concat([
     'man',
     'bear',
-    'pig'
+    'pig',
+    'fox',
+    'wolf',
+    'coyote',
+    'weasel',
+    'mink',
+    'otter',
+    'raccoon',
+    'skunk',
+    'badger',
+    'mongoose',
+    'lemur',
+    'monkey',
+    'ape',
 ]);
